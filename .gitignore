@@ -1,3 +1,5 @@
+# Ignore VSCode 
+.vscode
 
 # Ignore build tree
 **build**
