@@ -3,3 +3,6 @@
 
 # Ignore build tree
 **build**
+
+# Ignore install tree
+**install**
